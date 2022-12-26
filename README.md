@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malhari Amrute</h1>
-<h3 align="center">A passionate Full Stack Java Developer</h3>
+<h3 align="center">A passionate  Java Developer</h3>
 
-<h4> I am very passionate about coding and intrested in learning new things and implementing all them while creating new applications. I take an evaluative approach to solve issues and work through the process by trying out various solutions. I'm a self-starter and work well independently, but I'm also skilled at working in teams. </h4>
+<h4> I am very passionate about coding and intrested in learning new things and implementing all them while creating new applications. I take an evaluative approach to solve issues and work through the process by trying out various solutions. I'm a self-starter and work well independently, but I'm also skilled at working in teams.I likes to make hands dirty for creating java based business applications. </h4>
 <img align="center" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  height = "300"  width= "300" text-align=centre />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrutem11&label=Profile%20views&color=0e75b6&style=flat" alt="amrutem11" /> </p>
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amrutem11?tab=repositories] 
-- 💬 Ask me about **Java,HTML,CSS,JavaScript**
+- 💬 Ask me about **Java,MySQL,SpringBoot,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **amrutemalhari@gmail.com**
 
