@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amrutem11?tab=repositories] 
+- 👨‍💻 All of my projects are available at https://github.com/amrutem11?tab=repositories
 - 💬 Ask me about **Java,MySQL,SpringBoot,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **amrutemalhari@gmail.com**
