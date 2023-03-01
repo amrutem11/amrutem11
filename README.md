@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malhari Amrute</h1>
-<h3 align="center">A passionate  Java Developer</h3>
+<h3 align="center">A Enthusiastic  Java Developer</h3>
 
 <h4> I am very passionate about coding and intrested in learning new things and implementing all them while creating new applications. I take an evaluative approach to solve issues and work through the process by trying out various solutions. I'm a self-starter and work well independently, but I'm also skilled at working in teams.I likes to make hands dirty for creating java based business applications. </h4>
 <img margin-top="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg" width ="100%" height="400"/>
